@@ -13,7 +13,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: "Passionate Game Developer"
+name: "Rounak Chowdhury Passionate Game Developer"
 current_level: "Aspiring Indie Dev"
 class: ["Game Designer", "Programmer", "Pixel Artist"]
 special_abilities:
